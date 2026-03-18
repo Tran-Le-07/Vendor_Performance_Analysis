@@ -6,9 +6,6 @@ The primary goal is to move beyond basic sales tracking and use statistical thre
 
 [🔗 View Interactive Vendor Performance Dashboard](https://public.tableau.com/app/profile/tran.le2329/viz/VendorPerformanceDashBoard/Dashboard2)
 
-![Dashboard Preview](<img width="969" height="624" alt="Screenshot 2026-03-17 at 8 43 11 PM" src="https://github.com/user-attachments/assets/2ad23da6-0271-4ec0-ad39-6cb93e66616b" />
-)
-
 ### ❓Business Problem
 **Effective inventory and sales management are critical for optimizing profitability in the retail/wholesale industry. Companies need to ensure that they are not incurring losses due to inefficient pricing, poor inventory turnover, or vendor dependency.**
 **The goal of this analysis is to:**
