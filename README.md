@@ -21,23 +21,23 @@ The primary goal is to move beyond basic sales tracking and use statistical thre
 ### 📈 Key Analytical Features
 #### 1. Operational KPIs
 The analysis tracks five critical metrics displayed in the dashboard:
-Total Sales: $441.41M
-Total Purchase: $307.34M
-Gross Profit: $134.07M
-Average Profit Margin: 38.72%
-Unsold Capital: $2.71M 
++ Total Sales: $441.41M
++ Total Purchase: $307.34M
++ Gross Profit: $134.07M
++ Average Profit Margin: 38.72%
++ Unsold Capital: $2.71M 
 
 #### 2. Performance Tier Logic
-Using advanced calculations in Tableau and Python, vendors are categorized dynamically:
-High-Potential Brands: Brands in the bottom 15% of sales volume but the top 15% of profit margin. These represent high-efficiency growth opportunities.
-Standard Performers: Brands maintaining consistent volume and average market margins.
++ Using advanced calculations in Tableau and Python, vendors are categorized dynamically:
++ High-Potential Brands: Brands in the bottom 15% of sales volume but the top 15% of profit margin. These represent high-efficiency growth opportunities.
++ Standard Performers: Brands maintaining consistent volume and average market margins.
 
 #### 3. Interactive Visualizations
 The dashboard includes:
-Viz-in-Tooltip: Hovering over a brand in the scatter plot reveals a secondary chart of "Sales by Order Size."
-Highlight Actions: Selecting a top vendor automatically highlights their specific brands across all performance charts.
++ Viz-in-Tooltip: Hovering over a brand in the scatter plot reveals a secondary chart of "Sales by Order Size."
++ Highlight Actions: Selecting a top vendor automatically highlights their specific brands across all performance charts.
 
 ### 💡 Strategic Insights
-Identified $2.71M in capital currently tied up in slow-moving inventory.
-Discovered that Diageo North America leads in total contribution (24.81%), but smaller vendors like M S Walker Inc show higher potential for margin-driven growth.
-Streamlined the ingestion of raw vendor data into a clean, queryable format using automated Python scripts.
++ Identified $2.71M in capital currently tied up in slow-moving inventory.
++ Discovered that Diageo North America leads in total contribution (24.81%), but smaller vendors like M S Walker Inc show higher potential for margin-driven growth.
++ Streamlined the ingestion of raw vendor data into a clean, queryable format using automated Python scripts.
