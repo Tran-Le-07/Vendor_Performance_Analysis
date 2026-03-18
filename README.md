@@ -4,7 +4,8 @@ This project provides an end-to-end data-driven evaluation of vendor performance
 
 The primary goal is to move beyond basic sales tracking and use statistical thresholds to categorize vendors by their efficiency and scale, then guide strategic marketing and procurement decisions.
 
-[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/tran.le6814/viz/VendorPerformanceDashBoard_17417387208030/VendorPerformanceDashboard)
+[View Interactive Tableau Dashboard]
+(https://public.tableau.com/app/profile/tran.le2329/viz/VendorPerformanceDashBoard/Dashboard2)
 
 ### 🛠️ Tech Stack
 + Data Processing: Python (Pandas, NumPy, Scipy)
