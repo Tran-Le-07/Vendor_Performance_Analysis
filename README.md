@@ -4,15 +4,15 @@ This project provides an end-to-end data-driven evaluation of vendor performance
 
 The primary goal is to move beyond basic sales tracking and use statistical thresholds to categorize vendors by their efficiency and scale, then guide strategic marketing and procurement decisions.
 
-<a href="https://public.tableau.com/app/profile/tran.le6814/viz/VendorPerformanceDashBoard_17417387208030/VendorPerformanceDashboard" target="_blank">
+<a href="[https://public.tableau.com/app/profile/tran.le6814/viz/VendorPerformanceDashBoard_17417387208030/VendorPerformanceDashboard](https://public.tableau.com/app/profile/tran.le2329/viz/VendorPerformanceDashBoard/Dashboard2?publish=yes)" target="_blank">
   <img src="https://img.shields.io/badge/View%20Live%20Dashboard-Tableau-blue?style=for-the-badge&logo=tableau" alt="Tableau Dashboard">
 </a>
 
 ### 🛠️ Tech Stack
-Data Processing: Python (Pandas, NumPy, Scipy)
-Business Intelligence: Tableau Desktop
-Database Management: Custom Python ingestion scripts (ingestion_db.py)
-Environment: Jupyter Notebook, macOS (Apple Silicon), Git/GitHub
++ Data Processing: Python (Pandas, NumPy, Scipy)
++ Business Intelligence: Tableau Desktop
++ Database Management: Custom Python ingestion scripts (ingestion_db.py)
++ Environment: Jupyter Notebook, macOS (Apple Silicon), Git/GitHub
 
 ### 📂 Repository Structure
 **Vendor Performance Analysis.ipynb**: Core analytical notebook containing data cleaning, outlier detection, and the calculation of performance tiers.
