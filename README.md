@@ -13,10 +13,10 @@ The primary goal is to move beyond basic sales tracking and use statistical thre
 + Environment: Jupyter Notebook, macOS (Apple Silicon), Git/GitHub
 
 ### 📂 Repository Structure
-**Vendor Performance Analysis.ipynb**: Core analytical notebook containing data cleaning, outlier detection, and the calculation of performance tiers.
-**Exploratory Data Analysis.ipynb**: Initial discovery phase focused on distribution of sales, profit margins, and correlation analysis.
-**get_vendor_summary.py**: Modular script used to aggregate raw transaction data into vendor-level summaries.
-**EDA insights.docx.pdf**: Executive summary documenting key business findings and strategic recommendations.
++ **Vendor Performance Analysis.ipynb**: Core analytical notebook containing data cleaning, outlier detection, and the calculation of performance tiers.
++ **Exploratory Data Analysis.ipynb**: Initial discovery phase focused on distribution of sales, profit margins, and correlation analysis.
++ **get_vendor_summary.py**: Modular script used to aggregate raw transaction data into vendor-level summaries.
++ **EDA insights.docx.pdf**: Executive summary documenting key business findings and strategic recommendations.
 
 ### 📈 Key Analytical Features
 #### 1. Operational KPIs
