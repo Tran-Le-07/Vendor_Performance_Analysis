@@ -4,7 +4,8 @@ This project provides an end-to-end data-driven evaluation of vendor performance
 
 The primary goal is to move beyond basic sales tracking and use statistical thresholds to categorize vendors by their efficiency and scale, ultimately guiding strategic marketing and procurement decisions.
 
-[🔗 View Interactive Vendor Performance Dashboard](https://public.tableau.com/app/profile/tran.le2329/viz/VendorPerformanceDashBoard/Dashboard2)
+[🔗 View Interactive Vendor Performance Dashboard]
+(https://public.tableau.com/app/profile/tran.le2329/viz/VendorPerformanceDashBoard/Dashboard2?publish=yes)
 
 ### ❓Business Problem
 **Effective inventory and sales management are critical for optimizing profitability in the retail/wholesale industry. Companies need to ensure that they are not incurring losses due to inefficient pricing, poor inventory turnover, or vendor dependency.**
