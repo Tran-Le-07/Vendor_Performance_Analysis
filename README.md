@@ -56,4 +56,4 @@ The dashboard includes:
 ### 💡 Strategic Insights
 + **Inventory Optimization**: Identified **$2.71M** in capital currently tied up in slow-moving inventory.
 + **Growth Opportunity**: While Diageo North America leads in total contribution **(24.81%)**, smaller vendors like M S Walker Inc show significantly higher potential for margin-driven growth.
-+ **Automayion**: Reduced manual data prep time by implementing automated Python ingestion scripts.
++ **Automation**: Reduced manual data prep time by implementing automated Python ingestion scripts.
